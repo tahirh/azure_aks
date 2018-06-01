@@ -15,5 +15,5 @@ curl http://localhost:8001/api/v1
 
 kubectl get pods -v=9
 
-
+kubectl create -f pod.yml
 
